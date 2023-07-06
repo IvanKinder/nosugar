@@ -1,8 +1,9 @@
 <template>
   <div>
-    hi
+    <LoginForm/>
   </div>
 </template>
 
 <script setup lang="ts">
+import LoginForm from "@/components/LoginForm"
 </script>
